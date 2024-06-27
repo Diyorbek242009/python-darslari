@@ -1,2 +1,2 @@
 # python-darslari
-python darslari praktikum
+python darslari haqida ko'plab malumotlar bor
